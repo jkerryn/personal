@@ -10,53 +10,15 @@ In my current role as a GIScientist at the Vermont Agency of Transportation’s 
 
 ## Positions Held
 
-* __Geographic Information Scientist__ (Spring 2018-) | Vermont Agency of Transportation
-* __Geography Instructor__ (Spring 2018) | The Pennsylvania State University World Campus
-* __User Experience Designer__ (Fall 2015-Spring 2018) | Strava Metro
-* __Geo Visualization Designer__ (Summer 2015) | Strava
-* __Research Assistant__ (Fall 2014-Spring 2015) | The Pennsylvania State University
-* __Gould Center Cartographer__ (Summer 2014) | The Pennsylvania State University
-* __Teaching/Research Assistant__ (Summer 2014) | The Pennsylvania State University
-* __Teaching Assistant__ (Fall 2013-Spring 2014) | The Pennsylvania State University
-* __Cartographer__ (Summer 2012-Spring 2013) | National Geographic Society
-* __GIS Technician__ (Spring 2011-Summer 2012) | Earth Data Analysis Center, Univ. of NM
+* __Geographic Information Scientist__ (Spring 2018-) Vermont Agency of Transportation
+* __Geography Instructor__ (Spring 2018) The Pennsylvania State University World Campus
+* __User Experience Designer__ (Fall 2015-Spring 2018) Strava Metro
+* __Geo Visualization Designer__ (Summer 2015) Strava
+* __Research Assistant__ (Fall 2014-Spring 2015) The Pennsylvania State University
+* __Gould Center Cartographer__ (Summer 2014) The Pennsylvania State University
+* __Teaching/Research Assistant__ (Summer 2014) The Pennsylvania State University
+* __Teaching Assistant__ (Fall 2013-Spring 2014) The Pennsylvania State University
+* __Cartographer__ (Summer 2012-Spring 2013) National Geographic Society
+* __GIS Technician__ (Spring 2011-Summer 2012) Earth Data Analysis Center, Univ. of NM
 
-You can link to an [anchor](#test) to maintain and preview the content for your website in Markdown files.
 
-You can use the [editor on GitHub](https://github.com/jkerryn/personal/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jkerryn/personal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-## Test<a name="test"></a>
